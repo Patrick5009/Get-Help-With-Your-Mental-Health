@@ -1,3 +1,4 @@
+/* footer links */
 #social-networks-links {
 text-align: center;
 display: flex;
@@ -8,7 +9,7 @@ padding: 20p 0;
 
 /* Hero image */
 #hero {
-    height: 600px;
+    height: 300px;
     width: 100%;
-    background: url("../") no-repeat center center/cover;
+    background: url("../images/clouds.webp") no-repeat center center/cover;
 }
