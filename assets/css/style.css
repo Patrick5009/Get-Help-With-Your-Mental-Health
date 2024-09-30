@@ -13,3 +13,10 @@ padding: 20p 0;
     width: 100%;
     background: url("../images/clouds.webp") no-repeat center center/cover;
 }
+
+/* main background image */
+#main-background {
+    height: 700px;
+    width: 100%;
+    background: url("../images/hero-image.webp.webp") no-repeat center center/cover;
+}
