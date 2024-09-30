@@ -20,3 +20,7 @@ padding: 20p 0;
     width: 100%;
     background: url("../images/hero-image.webp.webp") no-repeat center center/cover;
 }
+
+nav {
+    box-shadow: 0 2px 100px #70c8e6;
+}
