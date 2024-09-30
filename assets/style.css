@@ -1,0 +1,14 @@
+#social-networks-links {
+text-align: center;
+display: flex;
+justify-content: space-evenly;
+padding: 20p 0;
+
+}
+
+/* Hero image */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../") no-repeat center center/cover;
+}
