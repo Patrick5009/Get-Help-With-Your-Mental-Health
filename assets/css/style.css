@@ -23,4 +23,11 @@ padding: 20p 0;
 
 nav {
     box-shadow: 0 2px 100px #70c8e6;
+    
+}
+
+#logo-text {
+    color: white;
+    background-color: rgba(143, 237, 196, 0.411);
+   
 }
