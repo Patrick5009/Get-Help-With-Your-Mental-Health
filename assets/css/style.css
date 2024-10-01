@@ -55,6 +55,7 @@ padding: 20p 0;
     height: 700px;
     width: 100%;
     background: url("../images/hero-image.webp.webp") no-repeat center center/cover;
+    background-attachment: fixed;
 }
 
 nav {
@@ -101,4 +102,7 @@ nav {
   
     }
 
-   
+    /* .fixed {
+      position: fixed;
+
+    } */
