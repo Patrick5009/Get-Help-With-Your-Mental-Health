@@ -107,3 +107,14 @@ nav {
       position: fixed;
 
     } */
+
+    .center-text {
+      display: flex;
+      justify-content: center;
+    }
+
+    .padding-small {
+      padding: 5%;
+    }
+
+   
