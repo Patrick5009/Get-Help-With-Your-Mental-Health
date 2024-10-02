@@ -1,8 +1,7 @@
 /* google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
 
-/*<uniquifier>: Use a unique and descriptive class name */
-/* <weight>: Use a value from 200 to 800 */
+
 
  .dosis {
   font-family: "Dosis", sans-serif;
@@ -72,7 +71,7 @@ nav {
 
 .logo-text {
     color: white;
-    background-color: rgba(143, 237, 196, 0.411);
+    background-color: rgba(143, 237, 196, 0.705);
     margin-top: 2rem;
     padding: 1rem;
     border-radius: 10px;
