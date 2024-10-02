@@ -104,7 +104,7 @@ nav {
    }
 
    #m-health-sites i {
-    color: rgb(137, 123, 123);
+    color: rgb(236, 68, 68);
     text-align: left;
    }
 
@@ -114,14 +114,32 @@ nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(233, 236, 156);
+    background-color: rgb(156, 236, 225);
     margin-left: 30%;
     margin-right: 30%;
     min-width: 200px;
+    border-radius: 50px;
     
    }
 
    #m-health-sites-container li a {
-    color: rgb(255, 255, 255);
+    color: rgb(96, 88, 3);
+   }
+
+   /* Media query for smaller screens */
+   @media (max-width: 600px) {
+    .dosis {
+      font-family: "Dosis", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+      font-size: 16px;
+    }
+
+    #m-health-sites-container {
+      margin: auto;
+      
+     }
+
    }
    
