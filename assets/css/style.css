@@ -9,6 +9,7 @@
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
+  font-size: 29px;
 }
 
 .old-standard-tt-regular {
@@ -34,9 +35,14 @@
 #social-networks-links {
 text-align: center;
 display: flex;
-justify-content: space-evenly;
-padding: 20p 0;
+justify-content:space-evenly;
+padding-top: 1.3%;
+list-style-type: none;
+font-size: 30px;
+}
 
+#social-networks-links i {
+color: black;
 }
 
 /* Hero image */
@@ -117,4 +123,6 @@ nav {
       padding: 5%;
     }
 
-   
+   .color-trans {
+    color: rgba(143, 237, 196, 0.411);
+   }
