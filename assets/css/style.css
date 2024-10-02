@@ -79,40 +79,11 @@ nav {
     
     }
 
-    main section div {
-
-    }
-
-    #tips-quotes-container1 {
-     
-   
-    }
-
-    #tips-quotes-container2 {
-      /* background-color: rgba(143, 237, 196, 0.411);
-      border-radius: 50px; */
-      
-    }
-
-    #tips-quotes-container3 {
-      
-     
-    }
 
     .margin-top {
       margin-top: 2.5%;
     
     }
-
-    /* .margin-bottom {
-      margin-bottom: 25%;
-  
-    } */
-
-    /* .fixed {
-      position: fixed;
-
-    } */
 
     .center-text {
       display: flex;
@@ -126,3 +97,31 @@ nav {
    .color-trans {
     color: rgba(143, 237, 196, 0.411);
    }
+
+   #m-health-sites  {
+    list-style-type: none;
+    
+   }
+
+   #m-health-sites i {
+    color: rgb(137, 123, 123);
+    text-align: left;
+   }
+
+   #m-health-sites-container {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(233, 236, 156);
+    margin-left: 30%;
+    margin-right: 30%;
+    min-width: 200px;
+    
+   }
+
+   #m-health-sites-container li a {
+    color: rgb(255, 255, 255);
+   }
+   
